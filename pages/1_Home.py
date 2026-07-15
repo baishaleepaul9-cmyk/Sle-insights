@@ -289,7 +289,7 @@ of the identified biomarkers.
             use_container_width=True,
              key="bio",
         ):
-            st.switch_page("pages/5_Biomarker_explorer.py")
+            st.switch_page("pages/5_Biomarker explorer.py")
         st.markdown("<br>", unsafe_allow_html=True)
 
 
