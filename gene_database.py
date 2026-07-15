@@ -90,7 +90,7 @@ gene_database = {
         "IFI27 belongs to the diagnostic biomarker panel. KEGG enrichment of the complete diagnostic signature highlighted pathways related to cell-cycle regulation and TGF-beta signalling.",
 
         "figure":
-        "assets/kegg/SHAP_KEGG_Barplot.png",
+        "assets/Kegg/SHAP_KEGG_Barplot.png",
 
         "excel":
         "data/kegg_excel/Final_Significant_SHAP_KEGG.xlsx",
@@ -123,7 +123,7 @@ gene_database = {
         "IFI27 was also associated with disease activity. KEGG enrichment identified pathways involved in cell-cycle regulation, p53 signalling and pyrimidine metabolism.",
 
         "figure":
-        "assets/kegg/Severity_KEGG_Barplot.png",
+        "assets/Kegg/Severity_KEGG_Barplot.png",
 
         "excel":
         "data/kegg_excel/top20_severity_genes_KEGG_results.xlsx",
@@ -163,7 +163,7 @@ gene_database = {
         "IFI27 was identified as one of the biomarkers common to both diagnostic and disease activity analyses. Enrichment analysis highlighted Cytosolic DNA-sensing pathway and Necroptosis.",
 
         "figure":
-        "assets/kegg/Overlap_KEGG_Barplot.png",
+        "assets/Kegg/Overlap_KEGG_Barplot.png",
 
         "excel":
         "data/kegg_excel/Final_Significant_Overlap_KEGG.xlsx",
@@ -338,7 +338,7 @@ gene_database = {
             "ZBP1 belongs to the diagnostic biomarker panel. KEGG enrichment of the complete diagnostic signature highlighted pathways related to cell-cycle regulation and TGF-beta signalling.",
 
             "figure":
-            "assets/kegg/SHAP_KEGG_Barplot.png",
+            "assets/Kegg/SHAP_KEGG_Barplot.png",
 
             "results":[
 
@@ -368,7 +368,7 @@ gene_database = {
             "ZBP1 was associated with disease activity. KEGG enrichment highlighted pathways involved in p53 signalling, cell-cycle regulation and pyrimidine metabolism.",
 
             "figure":
-            "assets/kegg/Severity_KEGG_Barplot.png",
+            "assets/Kegg/Severity_KEGG_Barplot.png",
 
             "results":[
 
@@ -578,7 +578,7 @@ gene_database = {
             "description":
             "CDCA7 belongs to the diagnostic biomarker panel. Enrichment analysis highlighted pathways involved in cell-cycle progression and TGF-beta signalling.",
 
-            "figure":"assets/kegg/SHAP_KEGG_Barplot.png",
+            "figure":"assets/Kegg/SHAP_KEGG_Barplot.png",
 
             "results":[
 
@@ -607,7 +607,7 @@ gene_database = {
             "description":
             "Disease activity enrichment highlighted pathways associated with cell-cycle regulation, p53 signalling and pyrimidine metabolism.",
 
-            "figure":"assets/kegg/Severity_KEGG_Barplot.png",
+            "figure":"assets/Kegg/Severity_KEGG_Barplot.png",
 
             "results":[
 
@@ -636,7 +636,7 @@ gene_database = {
             "description":
             "CDCA7 was identified among the overlapping biomarkers shared between diagnostic and disease activity analyses.",
 
-            "figure":"assets/kegg/Overlap_KEGG_Barplot.png",
+            "figure":"assets/Kegg/Overlap_KEGG_Barplot.png",
 
             "results":[
 
@@ -824,7 +824,7 @@ gene_database = {
             "GADD45A is one of the eight genes comprising the final diagnostic signature. Functional enrichment of the complete gene panel highlighted pathways involved in cell-cycle regulation, TGF-beta signalling and immune-associated biological processes.",
 
             "figure":
-            "assets/kegg/SHAP_KEGG_Barplot.png",
+            "assets/Kegg/SHAP_KEGG_Barplot.png",
 
             "excel":
             "data/kegg_excel/Final_Significant_SHAP_KEGG.xlsx",
@@ -1015,7 +1015,7 @@ gene_database = {
             "SCRN1 forms part of the final diagnostic biomarker panel. Functional enrichment of the complete diagnostic signature highlighted pathways associated with immune regulation, cell-cycle control and TGF-beta signalling.",
 
             "figure":
-            "assets/kegg/SHAP_KEGG_Barplot.png",
+            "assets/Kegg/SHAP_KEGG_Barplot.png",
 
             "excel":
             "data/kegg_excel/Final_Significant_SHAP_KEGG.xlsx",
@@ -1206,7 +1206,7 @@ gene_database = {
             "ABCB1 forms part of the final diagnostic biomarker panel. Functional enrichment of the complete diagnostic signature highlighted pathways involved in immune regulation, cell-cycle control and TGF-beta signalling.",
 
             "figure":
-            "assets/kegg/SHAP_KEGG_Barplot.png",
+            "assets/Kegg/SHAP_KEGG_Barplot.png",
 
             "excel":
             "data/kegg_excel/Final_Significant_SHAP_KEGG.xlsx",
@@ -1397,7 +1397,7 @@ gene_database = {
             "TFDP1 forms part of the final diagnostic biomarker panel. Functional enrichment of the complete diagnostic signature highlighted pathways involved in cell-cycle regulation, DNA replication and TGF-beta signalling.",
 
             "figure":
-            "assets/kegg/SHAP_KEGG_Barplot.png",
+            "assets/Kegg/SHAP_KEGG_Barplot.png",
 
             "excel":
             "data/kegg_excel/Final_Significant_SHAP_KEGG.xlsx",
@@ -1588,7 +1588,7 @@ gene_database = {
             "KLHDC8B forms part of the final diagnostic biomarker panel. Functional enrichment of the complete diagnostic signature highlighted pathways associated with immune regulation, cell-cycle control and TGF-beta signalling.",
 
             "figure":
-            "assets/kegg/SHAP_KEGG_Barplot.png",
+            "assets/Kegg/SHAP_KEGG_Barplot.png",
 
             "excel":
             "data/kegg_excel/Final_Significant_SHAP_KEGG.xlsx",
