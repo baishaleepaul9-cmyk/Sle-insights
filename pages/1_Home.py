@@ -362,7 +362,7 @@ with left:
 
         st.subheader("🧬 Study Workflow")
 
-        workflow = Image.open("assets/workflow(2).png")
+        workflow = Image.open("assets/workflow(4).png")
 
         st.image(
             workflow,
