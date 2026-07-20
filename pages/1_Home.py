@@ -365,7 +365,7 @@ with left:
         workflow = Image.open("assets/overallwork.png")
 
         st.image(
-            workflow,
+            overallwork,
             use_container_width=True
         )
 
